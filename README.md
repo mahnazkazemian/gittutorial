@@ -23,6 +23,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Jafari 😃](https://github.com/alijafari79)
 - [мαмαℓι ☺️](https://github.com/mjavadnasr)
 - [Alireza🤞](https://github.com/ORNI4S)
+- [Mahnaz Kazemian](https://gist.github.com/mahnazkazemian)
 - [Behzad](https://github.com/Behzadm42)
 - [**Mohammad Tavakoli** :sunglasses::fire:](https://github.com/pypyKid)
 - [Koorosh Komeilizadeh](https://github.com/kooroshkz)
